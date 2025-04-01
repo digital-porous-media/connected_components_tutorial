@@ -1,0 +1,7 @@
+dpm-tools==0.0.4
+connected-components-3d==3.16.0
+numpy
+pandas
+matplotlib
+pyvista==0.43.6
+tifffile
